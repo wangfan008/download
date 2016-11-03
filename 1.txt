@@ -1,3 +1,7 @@
 this is a github test
 
+<<<<<<< HEAD
 add by master
+=======
+add by test
+>>>>>>> Test
